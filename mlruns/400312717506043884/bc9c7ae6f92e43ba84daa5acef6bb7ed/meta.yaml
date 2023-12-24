@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ADS/Desktop/yasir/Data_Science/Projets/Retail%20Display%20Strategy%20Analysis/mlruns/400312717506043884/bc9c7ae6f92e43ba84daa5acef6bb7ed/artifacts
+end_time: 1703423788520
+entry_point_name: ''
+experiment_id: '400312717506043884'
+lifecycle_stage: active
+run_id: bc9c7ae6f92e43ba84daa5acef6bb7ed
+run_name: upset-auk-347
+run_uuid: bc9c7ae6f92e43ba84daa5acef6bb7ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703423787996
+status: 3
+tags: []
+user_id: ADS

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ADS/Desktop/yasir/Data_Science/Projets/Retail%20Display%20Strategy%20Analysis/mlruns/400312717506043884/fa0479dba3324799bbc8b74398689073/artifacts
+end_time: 1703423787978
+entry_point_name: ''
+experiment_id: '400312717506043884'
+lifecycle_stage: active
+run_id: fa0479dba3324799bbc8b74398689073
+run_name: stately-shrike-103
+run_uuid: fa0479dba3324799bbc8b74398689073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703423768330
+status: 3
+tags: []
+user_id: ADS

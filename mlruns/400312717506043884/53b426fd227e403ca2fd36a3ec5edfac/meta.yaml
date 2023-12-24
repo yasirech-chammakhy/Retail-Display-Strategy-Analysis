@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ADS/Desktop/yasir/Data_Science/Projets/Retail%20Display%20Strategy%20Analysis/mlruns/400312717506043884/53b426fd227e403ca2fd36a3ec5edfac/artifacts
+deleted_time: 1703423053761
+end_time: 1703422578447
+entry_point_name: ''
+experiment_id: '400312717506043884'
+lifecycle_stage: deleted
+run_id: 53b426fd227e403ca2fd36a3ec5edfac
+run_name: trusting-zebra-260
+run_uuid: 53b426fd227e403ca2fd36a3ec5edfac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703422569824
+status: 4
+tags: []
+user_id: ADS

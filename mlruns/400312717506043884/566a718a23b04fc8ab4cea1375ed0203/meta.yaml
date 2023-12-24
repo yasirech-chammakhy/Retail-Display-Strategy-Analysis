@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ADS/Desktop/yasir/Data_Science/Projets/Retail%20Display%20Strategy%20Analysis/mlruns/400312717506043884/566a718a23b04fc8ab4cea1375ed0203/artifacts
+deleted_time: 1703423053734
+end_time: 1703423027726
+entry_point_name: ''
+experiment_id: '400312717506043884'
+lifecycle_stage: deleted
+run_id: 566a718a23b04fc8ab4cea1375ed0203
+run_name: spiffy-bat-478
+run_uuid: 566a718a23b04fc8ab4cea1375ed0203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703423025638
+status: 3
+tags: []
+user_id: ADS

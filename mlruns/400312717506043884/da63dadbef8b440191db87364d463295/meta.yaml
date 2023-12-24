@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ADS/Desktop/yasir/Data_Science/Projets/Retail%20Display%20Strategy%20Analysis/mlruns/400312717506043884/da63dadbef8b440191db87364d463295/artifacts
+deleted_time: 1703423716125
+end_time: 1703423692495
+entry_point_name: ''
+experiment_id: '400312717506043884'
+lifecycle_stage: deleted
+run_id: da63dadbef8b440191db87364d463295
+run_name: amazing-skink-20
+run_uuid: da63dadbef8b440191db87364d463295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703423692327
+status: 3
+tags: []
+user_id: ADS
